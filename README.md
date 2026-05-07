@@ -12,14 +12,6 @@ This project analyzes the Olist Brazilian E-Commerce dataset to uncover insights
 * **Tableau:** Used to design an interactive dashboard focusing on geographic sales distribution.
 * **Power BI:** Used to build a comprehensive KPI tracking dashboard for executive review.
 
-## 📊 Dashboard Previews
-
-### Power BI Executive View
-*(Upload your Power BI screenshot to GitHub, and drag-and-drop the image right here in the text editor to display it!)*
-
-### Tableau Geographic Sales View
-*(Drag-and-drop your Tableau screenshot here!)*
-
 ## 💡 Key Business Insights
 1.  **Revenue Drivers:** Found that [Insert Category] generates the highest percentage of overall revenue.
 2.  **Delivery Bottlenecks:** Identified that [Insert City/State] experiences the highest average delivery delay.
